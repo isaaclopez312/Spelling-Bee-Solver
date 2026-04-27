@@ -20,21 +20,6 @@ The program supports both interactive gameplay and automated solving using brute
 
 ---
 
-## Game Rules
-
-A valid word must:
-- Contain only letters from the hive
-- Include the required center letter
-- Be at least 4 letters long
-
-Scoring:
-- 4-letter words = 1 point
-- 5+ letter words = word length points
-- Pangram bonus points apply
-- Perfect pangrams receive extra recognition
-
----
-
 ## HOW TO RUN IT
 ```bash
 gcc main.c -o spellingbee
