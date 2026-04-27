@@ -9,14 +9,13 @@ The program supports both interactive gameplay and automated solving using brute
 
 ## Features
 
-- 📚 Loads words from a dictionary file using file I/O
-- 🔤 Builds a letter hive with unique, alphabetized characters
-- 🎮 Play mode where users submit valid words
-- 🤖 Solver mode (brute force or recursive backtracking)
-- ⭐ Pangram and perfect pangram detection
-- 🧠 Valid word checking using hive constraints
-- 📊 Scoring system similar to NYT Spelling Bee
-- ⚙️ Command-line configurable settings
+- Loads words from a dictionary file using file I/O
+- Builds a letter hive with unique characters from the dictionary
+- Mode where users can input valid words
+- Solver mode 
+- Pangram and perfect pangram detection
+- Valid word checking 
+- Scoring system
 
 ---
 
@@ -27,6 +26,10 @@ The program supports both interactive gameplay and automated solving using brute
 - Git
 - File I/O
 
+## WHAT TO EXPECT 
+
+
 ## HOW TO RUN IT
 ```bash
 gcc main.c -o spellingbee
+
