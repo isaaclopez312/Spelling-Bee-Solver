@@ -39,9 +39,12 @@ The program supports both interactive gameplay and automated solving using brute
 - 4 letters = 1 point and 5+ letters get the amount of points of the length
 - Bonuses depending on if it's perfect or not
 
+
+https://github.com/user-attachments/assets/435f48d6-e234-49e0-8c97-439db2fde552
 ## HOW TO RUN IT
 ```bash
 gcc main.c -o spellingbee
-https://github.com/user-attachments/assets/435f48d6-e234-49e0-8c97-439db2fde552
+
+
 
 
