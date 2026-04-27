@@ -20,6 +20,13 @@ The program supports both interactive gameplay and automated solving using brute
 
 ---
 
+## TECH
+- C++
+- VSCODE
+- Data Structures and Algorithms
+- Git
+- File I/O
+
 ## HOW TO RUN IT
 ```bash
 gcc main.c -o spellingbee
