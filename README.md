@@ -1,7 +1,8 @@
 # Spelling Bee Game & Solver (C)
 
 ## Overview
-This project is a C implementation of a Spelling Bee-style word puzzle game and solver. It reads a dictionary file, generates or accepts a custom letter hive, and finds all valid words that can be formed using the hive rules.
+I developed a program in C that analyzed organism relationships using dynamic memory allocation. I implemented dynamic modification, enabling users to remove, add, and modify the program to create a
+functioning food web. Gave me the knowledge to problem solve and understanding information
 
 The program supports both interactive gameplay and automated solving using brute force or optimized recursive search.
 
