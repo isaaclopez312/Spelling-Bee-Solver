@@ -1,3 +1,8 @@
+
+
+https://github.com/user-attachments/assets/435f48d6-e234-49e0-8c97-439db2fde552
+
+
 # Spelling Bee Game & Solver (C)
 
 ## Overview
