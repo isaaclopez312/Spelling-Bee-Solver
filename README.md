@@ -29,6 +29,10 @@ The program supports both interactive gameplay and automated solving using brute
 
 ## WHAT TO EXPECT 
 
+- Valid words must meet certain requirements such as, being at least 4 letters long. It must include the required center letter.
+**Scoring:**
+- 4 letters = 1 point and 5+ letters get the amount of points of the length
+- Bonuses depending on if it's perfect or not
 
 ## HOW TO RUN IT
 ```bash
