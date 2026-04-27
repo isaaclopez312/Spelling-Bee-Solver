@@ -35,7 +35,6 @@ Scoring:
 
 ---
 
-## How to Compile
-
+## HOW TO RUN IT
 ```bash
 gcc main.c -o spellingbee
